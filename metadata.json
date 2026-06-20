@@ -1,0 +1,6 @@
+{
+  "name": "Network & IP Port Scanner",
+  "description": "An aesthetic, full-stack network scanning utility to validate inputs, resolve hostnames via DNS, and scan open ports with status visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
